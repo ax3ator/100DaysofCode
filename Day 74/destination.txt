@@ -1,0 +1,3 @@
+My name is Adil.
+I am learning C programming.
+This is my 100 Days of Code challenge.
